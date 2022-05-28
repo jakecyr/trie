@@ -1,0 +1,12 @@
+{
+  "name": "trie",
+  "version": "1.0.0",
+  "main": "Main.js",
+  "type": "module",
+  "keywords": [
+    "trie",
+    "data structure"
+  ],
+  "author": "Jake Cyr",
+  "license": "ISC"
+}
